@@ -96,3 +96,13 @@ The data will appear.
 Now, open the Form Mule, select setup and select build/preview template to change the email to requestor email.
 ![sheet 19](https://user-images.githubusercontent.com/37354986/187441651-2cff89c4-cb5b-4ff8-9150-74d1064fc53e.PNG)
 
+Click on cell that has formula, then click on extension tab, select copy down, and enable.
+![sheet 20](https://user-images.githubusercontent.com/37354986/187443179-d8e6b5dc-689f-4df9-8c38-01ef97985d04.PNG)
+
+Save the setting
+![sheet 21](https://user-images.githubusercontent.com/37354986/187443448-e3a54853-04d7-4ae8-a5b7-862b4b4f8982.PNG)
+
+Automatic email after approval will received.
+![sheet 22](https://user-images.githubusercontent.com/37354986/187443960-845f3d51-8e4b-4d16-9059-c49d52d5dbe7.PNG)
+
+## Done.

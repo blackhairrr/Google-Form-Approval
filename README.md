@@ -93,3 +93,6 @@ Allow the access.
 The data will appear.
 ![sheet 18](https://user-images.githubusercontent.com/37354986/187440763-3b448dca-4066-4f36-84bd-fc2c5636a37f.PNG)
 
+Now, open the Form Mule, select setup and select build/preview template to change the email to requestor email.
+![sheet 19](https://user-images.githubusercontent.com/37354986/187441651-2cff89c4-cb5b-4ff8-9150-74d1064fc53e.PNG)
+

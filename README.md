@@ -5,15 +5,8 @@
 User submit form > Approver get email to approve > User get email approved status > Data recorded in Google Sheet
 
 ## 1. Create questions in Google Form
-### Create form with two section selection. The answer must be based on selection. Create two section, staff section and supervisor section.
-![Parking Coupon - Google Forms](https://user-images.githubusercontent.com/37354986/186950996-28655ec4-071a-458f-a0dd-00fdbe5c3e8d.png)
-
-### Staff Section
-![Staff section](https://user-images.githubusercontent.com/37354986/186951312-51470519-6ca4-45c2-a568-8b0172955d05.png)
-
-
-### Supervisor section
-![Supervisor section](https://user-images.githubusercontent.com/37354986/186951404-ff6602cd-325d-41b0-879a-4a80253775ad.png)
+### Create form. Create some questions. After that, test submit some response.
+![form 1](https://user-images.githubusercontent.com/37354986/187424177-e65a8c01-39af-4783-a9c4-322ac21cfcf7.PNG)
 
 
 ### Open setting tab. Enable collect email addresses
@@ -26,4 +19,5 @@ User submit form > Approver get email to approve > User get email approved statu
 ![Create sheet](https://user-images.githubusercontent.com/37354986/186953432-d7e0af23-259b-436a-bd35-66afd7ff4246.png)
 
 ### Open sheet to see the data.
-![Open sheet](https://user-images.githubusercontent.com/37354986/186953487-1e77d236-08e9-42ae-9dbe-54bd53dbca6d.png)
+![sheet 1](https://user-images.githubusercontent.com/37354986/187425437-95d767bf-dd00-4387-befe-61f4f58dc2e2.PNG)
+## 2. Create form for approval section.
